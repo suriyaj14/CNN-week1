@@ -1,5 +1,4 @@
 # CNN-week1
-# CNN-Sanjay.s-week-1
 waste classification using CNN 
 # Waste Classification
 
